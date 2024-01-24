@@ -32,6 +32,11 @@
     "chargedMoves": ["SURF", "ORIGIN_PULSE"],
     "weight": 25
 }, {
+    "speciesId": "kyogre_shadow",
+    "fastMove": "WATERFALL",
+    "chargedMoves": ["SURF", "ORIGIN_PULSE"],
+    "weight": 1
+}, {
     "speciesId": "steelix_mega",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["BREAKING_SWIPE", "EARTHQUAKE"],
