@@ -255,6 +255,10 @@
     "chargedMoves": ["HYDRO_CANNON", "FLASH_CANNON"],
     "weight": 1
 }, {
+    "speciesId": "enamorus_incarnate",
+    "chargedMoves": ["FLY", "DAZZLING_GLEAM"],
+    "weight": 1
+}, {
     "speciesId": "exeggutor_alolan",
     "chargedMoves": ["SEED_BOMB", "DRACO_METEOR"],
     "weight": 1
