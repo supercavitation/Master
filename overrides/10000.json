@@ -22,6 +22,10 @@
     "chargedMoves": ["IRON_HEAD", "DRACO_METEOR"],
     "weight": 20
 }, {
+    "speciesId": "dialga_origin",
+    "chargedMoves": ["IRON_HEAD", "ROAR_OF_TIME"],
+    "weight": 20
+}, {
     "speciesId": "kyogre",
     "fastMove": "WATERFALL",
     "chargedMoves": ["SURF", "ORIGIN_PULSE"],
@@ -165,6 +169,11 @@
     "chargedMoves": ["AQUA_TAIL", "DRACO_METEOR"],
     "weight": 20
 }, {
+    "speciesId": "palkia_origin",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["AQUA_TAIL", "DRACO_METEOR"],
+    "weight": 20
+}, {
     "speciesId": "sceptile_mega",
     "fastMove": "BULLET_SEED",
     "chargedMoves": ["EARTHQUAKE", "BREAKING_SWIPE"],
@@ -218,6 +227,10 @@
 }, {
     "speciesId": "celesteela",
     "chargedMoves": ["BODY_SLAM", "BULLDOZE"],
+    "weight": 1
+}, {
+    "speciesId": "chandelure",
+    "fastMove": "INCINERATE",
     "weight": 1
 }, {
     "speciesId": "charizard",
