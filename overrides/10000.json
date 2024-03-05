@@ -171,7 +171,7 @@
 }, {
     "speciesId": "palkia_origin",
     "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["AQUA_TAIL", "DRACO_METEOR"],
+    "chargedMoves": ["AQUA_TAIL", "SPACIAL_REND"],
     "weight": 20
 }, {
     "speciesId": "sceptile_mega",
